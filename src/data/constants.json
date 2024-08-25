@@ -1,0 +1,266 @@
+{
+    "Bio" : {
+        "name" : "PRAVEEN KUMAR R",
+        "roles" : ["Full Stack Developer","Frontend Developer","Backend Developer"],
+        "description" : "I am a Full Stack Developer (MERN) and a fresher with strong skills in both front-end and back-end development. On the front-end, I am proficient in HTML, CSS, JavaScript, and frameworks such as React.js, Bootstrap, and Redux. On the back-end, I have expertise in Node.js, Express.js, and MongoDB, as well as handling APIs. I am eager to work on real-time projects and continuously upgrade my skills.",
+        "github" : "https://github.com/praveenrames",
+        "resume" : "https://drive.google.com/file/d/1GEBLcqtlOIhyANiSxlpCtjKEGQgB-teg/view?usp=sharing",
+        "linkedin" : "https://www.linkedin.com/in/r-praveen-kumar08/"
+    },
+
+    "skills" : [
+        {
+            "title" : "Frontend",
+            "skills" : [
+                {
+                    "name" : "HTML",
+                    "image" : "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png"
+                },
+                {
+                    "name" : "CSS",
+                    "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"
+                },
+                {
+                    "name" : "JavaScript",
+                    "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png"
+                },
+                {
+                    "name" : "React Js",
+                    "image" : "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K"
+                },
+                {
+                    "name" : "Bootstrap",
+                    "image": "https://www.kindpng.com/picc/m/27-278320_bootstrap-logo-logo-png-bootstrap-logo-transparent-png.png"
+                },
+                {
+                    "name" : "Redux",
+                    "image" : "https://img.stackshare.io/service/7374/react-redux.png"
+                }
+            ]
+        },
+        {
+            "title" : "Backend",
+            "skills" : [
+                {
+                    "name": "Node.js",
+                    "image": "https://www.pngitem.com/pimgs/m/520-5202823_nodejs-node-js-logo-png-transparent-png.png"
+                },
+                {
+                    "name" : "MongoDB",
+                    "image" : "https://technologypoint.in/wp-content/uploads/2021/06/MongoDB-sm-logo.gif"
+                },
+                {
+                    "name" : "Express.js",
+                    "image" : "https://tse1.mm.bing.net/th?id=OIP.1ji9NLQl3sOXktSoEYnt3wHaHa&pid=Api&P=0&h=100"
+                },
+                {
+                    "name" : "MySQL",
+                    "image" : "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+                }
+            ]
+        },
+        {
+           "title" : "Tools",
+           "skills" : [
+                {
+                    "name" : "Git",
+                    "image" : "https://tse3.mm.bing.net/th?id=OIP.Xa0BEkwl0Zx4qnY9lMbD7gAAAA&pid=Api&P=0&h=180"
+                },
+                {
+                    "name" : "GitHub",
+                    "image" : "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+                },
+                {
+                    "name": "VS Code",
+                    "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519"
+                },
+                {
+                    "name" : "Canva",
+                    "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ7WL31BgP94lXiVCt-m6cReSz8AqGnKVy4hCWa-kh_qEEFDB6byi_OfMP&s=10"
+                },
+                {
+                    "name" : "Postman API",
+                    "image" : "https://tse3.mm.bing.net/th?id=OIP.Txf8ugHH_MlHPM8JU6hT5wHaEh&pid=Api&P=0&h=100"
+                },
+                {
+                    "name" : "Netlify",
+                    "image" : "https://images.saasworthy.com/netlify_6502_logo_1583418670_gqrd3.png"
+                },
+                {
+                    "name" : "Render",
+                    "image" : "https://tse1.mm.bing.net/th?id=OIP.X7ZhhhnYwFK9HLdgjrL6SQAAAA&pid=Api&P=0&h=100"
+                }
+            ]
+        }
+    ],
+
+    "experiences" : [
+        {
+          "id" : 0,
+          "img" : "https://mir-s3-cdn-cf.behance.net/project_modules/fs/f36678129705991.6170792d7aa89.png",
+          "role" : "Full Stack Developer (MERN) - GUVI Technology",
+          "company" : "GUVI Geek Networks, IITM Research Park",
+          "date" : "May 2024 to july 2024",
+          "desc" : "Completed the Full Stack Development (MERN) course from GUVI Zen Class, earning a Professional Certificate Gained a strong skill set in both front-end and back-end development.",
+          "skills" : [
+              "HTML",
+              "CSS",
+              "JavaScript",
+              "DoM Manipulation",
+              "React Js",
+              "Bootstrap",
+              "Node.js",
+              "Advance JS",
+              "MongoDB"
+          ],
+          "doc" : "https://i.ibb.co/qCxc1nT/Full-stack-Development-certification.jpg"
+        }
+    ],
+    "education" : [
+        {
+            "id" : 0,
+            "img" : "https://yt3.ggpht.com/a/AATXAJx9IAt-oWQXPiRaO5wbcWVGhJ1cKwailpR5LcgD=s900-c-k-c0xffffffff-no-rj-mo",
+            "school" : "SRM Easwari Engineering College",
+            "date" : "2021 - 2024",
+            "grade" : "8.05 CGPA",
+            "desc" : "I successfully completed my Bachelore's degree in (B.E in Mechanical Engineering) from Easwari Engineering College in April 20224 Throughout the three-year of program, I completed 6 semesters with a CGPA of 8.05",
+            "degree" : "Bachelore of Engineering - B.E, Mechanical Engineering"
+        },
+        {
+            "id" : 1,
+            "img" : "https://tse1.mm.bing.net/th?id=OIP.hge51du6dnRtLY9P9sGhqgAAAA&pid=Api&P=0&h=180",
+            "school": "CPAT-TVS Polytchnic College Chennai",
+            "date" : "2018 - 2021",
+            "grade" : "78%",
+            "desc" : "Completed my Diploma in (Diploma in Mechanical Engineering) from TVS Polytechnic College Chennai",
+            "degree" : "Diploma in Mechanical Engineering"
+        },
+        {
+            "id": 2,
+            "img": "https://tse3.mm.bing.net/th?id=OIP.ltD7yyinQzEBpWaMlMt8YwHaFY&pid=Api&P=0&h=100",
+            "school": "John Dewey Metriculation School",
+            "date" : "Aprl 2017 - Aprl 2018",
+            "grade" : "47%",
+            "desc" : "I completed my class 10 eduction at John Dewey Metriculation School",
+            "degree" : "SSLC(X)"
+        }
+    ],
+
+    "projects" : [
+        {
+            "id" : 0,
+            "title" : "Task Management App",
+            "date" : "Aprl 21 - August 13",
+            "description" : 
+              "I developed a full-stack task management app with React.js, Bootstrap, Tailwind CSS, Redux, and Context API on the front-end, and Node.js, Express.js, and MongoDB on the back-end. Users can sign up, log in, create, assign, and track tasks. Tasks are categorized as Completed, In Progress, or Pending. The app also allows for task editing, deletion, and priority setting.",
+            "image" : "https://user-images.githubusercontent.com/89120990/139288993-9cfed071-29a9-46cd-9ea2-cfc92b6ceb7e.png",
+            "tags" : ["React.js","Node.js","MongoDb","Bootstrap"],
+            "category" : "Web",
+            "github" : "https://github.com/praveenrames/my",
+            "Webapp" : "https://praveen-task-project.netlify.app/",
+            "member" : [
+                {
+                    "name" : "PRAVEEN KUMAR R",
+                    "img" : "https://i.ibb.co/2jhF96H/Whats-App-Image-2024-03-11-at-3-13-47-PM.jpg",
+                    "linkedin" : "https://www.linkedin.com/in/r-praveen-kumar08/",
+                    "github" : "https://github.com/praveenrames"
+                }
+            ]
+        },
+        {
+            "id" : 0,
+            "title" : "Calculator",
+            "date" : "Aprl 13",
+            "description" : "I created a responsive calculator that supports multiple operations and runs in real-time. It allows users to perform various calculations efficiently, with a user-friendly interface that adapts to different screen sizes.",
+            "image" : "https://i.pinimg.com/originals/b4/8a/43/b48a43e944465df843352edca0368540.png",
+            "tags" : ["HTML","CSS","JavaScript","Bootstrap","Fetch API"],
+            "category" : "Web",
+            "github" : "https://github.com/praveenrames/fsd60-DOM-calculator",
+            "Webapp" : "https://bright-lolly-6c50fb.netlify.app",
+            "member" : [
+                {
+                    "name" : "PRAVEEN KUMAR R",
+                    "img" : "https://i.ibb.co/2jhF96H/Whats-App-Image-2024-03-11-at-3-13-47-PM.jpg",
+                    "linkedin" : "https://www.linkedin.com/in/r-praveen-kumar08/",
+                    "github" : "https://github.com/praveenrames"
+                }
+            ]
+        },
+        {
+            "id" : 0,
+            "title" : "User Management Data",
+            "date" : "May 21",
+            "description" : "In your React.js front-end project, you've created a user management system where users can add, edit, and delete user details, with data managed via a backend API using the Fetch API. When a new user is added, their details are captured in a form and sent to the API via a POST request for storage.",
+            "image" : "https://i.pinimg.com/736x/37/4d/bc/374dbcc0df50b33a0f494ca3038293e4.jpg",
+            "tags" : ["React.js","Axios-react","Fetch API","Mock API"],
+            "category" : "Web",
+            "github" : "https://github.com/praveenrames/React-Axios.git",
+            "Webapp" : "https://stately-empanada-a54ff6.netlify.app/",
+            "member": [
+                {
+                    "name" : "PRAVEEN KUMAR R",
+                    "img" : "https://i.ibb.co/2jhF96H/Whats-App-Image-2024-03-11-at-3-13-47-PM.jpg",
+                    "linkedin" : "https://www.linkedin.com/in/r-praveen-kumar08/",
+                    "github" : "https://github.com/praveenrames"
+                }
+            ]
+        },
+        {
+            "id" : 0,
+            "title" : "Shopping Cart",
+            "date" : "Jun 11",
+            "description" : "I developed a responsive front-end shopping cart for a mini e-commerce project. The cart dynamically updates to show the current price, discounts, and available offers when a user adds a product. Additionally, it highlights popular products, enhancing the shopping experience by providing relevant and attractive options.",
+            "image" : "https://i.pinimg.com/originals/79/2c/59/792c59d182ede28bec5bfbdc70495516.png",
+            "tags" : ["React.js","Redux","Fetch API","Bootstrap","Mock API"],
+            "category": "Web",
+            "github" : "https://github.com/praveenrames/React-Redux-Task",
+            "Webapp" : "https://fantastic-boba-fee8d1.netlify.app/",
+            "member" : [
+                {
+                    "name" : "PRAVEEN KUMAR R",
+                    "img" : "https://i.ibb.co/2jhF96H/Whats-App-Image-2024-03-11-at-3-13-47-PM.jpg",
+                    "github" : "https://github.com/praveenrames",
+                    "linkedin" : "https://www.linkedin.com/in/r-praveen-kumar08/"
+                }
+            ]
+        },
+        {
+            "id" : 0,
+            "title": "Recipe Explorer",
+            "date" : "Aprl 16",
+            "description" : "This title emphasizes the site's focus on helping users discover specific recipes and related culinary options.",
+            "image" : "https://assets-global.website-files.com/58531d7256ce728d0ed5fcf1/58531d7356ce728d0ed60397_Template-Slideshow-1%402x.jpg",
+            "tags" : ["HTML","CSS","JavaScript","DOM","Fetch API","Bootstrap"],
+            "category": "Web",
+            "github": "https://github.com/praveenrames/fsd60-food-recipe-api.git",
+            "Webapp" : "https://fsd60-food-recipe-api.netlify.app",
+            "member" : [
+                {
+                    "name" : "PRAVEEN KUMAR R",
+                    "img" : "https://i.ibb.co/2jhF96H/Whats-App-Image-2024-03-11-at-3-13-47-PM.jpg",
+                    "github" : "https://github.com/praveenrames",
+                    "linkedin" : "https://www.linkedin.com/in/r-praveen-kumar08/"
+                }
+            ]
+        },
+        {
+            "id" : 0,
+            "title" : "Thirukural App",
+            "date" : "Jun 12",
+            "description": "This application provides easy access to the timeless wisdom of the Thirukural, a classic Tamil text. Simply click the button to retrieve and display a particular Kural, along with its meaning. ",
+            "image" : "https://indica.courses/wp-content/uploads/2023/01/TN-2-1110x500.jpeg",
+            "tags" : ["HTML","CSS","JavaScript","Fetch API","Bootstrap"],
+            "category": "Web",
+            "github" : "https://github.com/praveenrames/fsd60-Thirukural-api",
+            "Webapp" : "https://fsd60-thirukural-api.netlify.app",
+            "member" : [
+                {
+                    "name" : "PRAVEEN KUMAR R",
+                    "img" : "https://i.ibb.co/2jhF96H/Whats-App-Image-2024-03-11-at-3-13-47-PM.jpg",
+                    "github": "https://github.com/praveenrames",
+                    "linkedin" : "https://www.linkedin.com/in/r-praveen-kumar08/"
+                }
+            ]
+        }
+    ]
+}
