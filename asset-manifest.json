@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/praveen-portfolio/static/css/main.c55bdca2.css",
+    "main.js": "/praveen-portfolio/static/js/main.d3aa2819.js",
+    "static/js/453.eca95212.chunk.js": "/praveen-portfolio/static/js/453.eca95212.chunk.js",
+    "static/media/my_profile_pic.jpeg": "/praveen-portfolio/static/media/my_profile_pic.3142e7e68792a82fefc7.jpeg",
+    "index.html": "/praveen-portfolio/index.html",
+    "main.c55bdca2.css.map": "/praveen-portfolio/static/css/main.c55bdca2.css.map",
+    "main.d3aa2819.js.map": "/praveen-portfolio/static/js/main.d3aa2819.js.map",
+    "453.eca95212.chunk.js.map": "/praveen-portfolio/static/js/453.eca95212.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c55bdca2.css",
+    "static/js/main.d3aa2819.js"
+  ]
+}
